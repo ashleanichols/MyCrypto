@@ -1,11 +1,12 @@
 repo_name: ashleanichols/MyCrypto
 report_id: 6940d18f46b6937dbb8c7c5d73dec8ff
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:51:40+00:00'
+timestamp: '2024-01-04T15:07:43+00:00'
 requested_by: FrederikBolding
 provider: github
 branch: master
-detected_tools_count: 131
+detected_tools_count: 134
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -50,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: greenkeeper[bot]
   last_updated_on: 2017-11-07 23:59:27.000000000 Z
@@ -63,7 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Desktop Development
   image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:33:24.000000000 Z
@@ -77,7 +82,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -91,7 +96,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -105,7 +110,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -118,7 +123,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -131,6 +136,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -143,6 +149,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -156,7 +163,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -171,7 +178,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Maarten Zuidhoorn
   last_updated_on: 2020-01-14 21:52:44.000000000 Z
@@ -184,6 +191,7 @@ tools:
   category: Data Stores
   sub_category: Blockchain
   image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:26:32.000000000 Z
@@ -196,6 +204,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -209,8 +218,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
+  detection_source: babel.config.js
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-20 04:12:28.000000000 Z
 - name: Coveralls
@@ -222,6 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-23 17:33:31.000000000 Z
@@ -234,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -245,6 +256,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -254,6 +266,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-10 14:10:24.000000000 Z
@@ -267,7 +280,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -279,6 +292,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -292,7 +306,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -304,6 +318,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -316,6 +331,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Srecko Smodis
   last_updated_on: 2019-07-31 06:53:30.000000000 Z
@@ -329,7 +345,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:03:08.000000000 Z
@@ -341,6 +357,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Daniel Ternyak
   last_updated_on: 2018-04-16 23:37:07.000000000 Z
@@ -352,6 +369,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -365,7 +383,7 @@ tools:
   category: Application Utilities
   sub_category: Web Forms
   image_url: https://img.stackshare.io/service/8846/preview.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Connor Bryan
   last_updated_on: 2018-12-05 23:50:59.000000000 Z
@@ -378,7 +396,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2020-01-22 12:59:52.000000000 Z
@@ -392,7 +410,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Maarten Zuidhoorn
   last_updated_on: 2019-09-19 09:58:57.000000000 Z
@@ -407,7 +425,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2019-11-07 14:03:48.000000000 Z
@@ -421,7 +439,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3076/Ramda-01.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:36:51.000000000 Z
@@ -434,6 +452,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -445,7 +464,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-06-03 01:53:15.000000000 Z
@@ -454,6 +473,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-14 18:21:45.000000000 Z
@@ -462,6 +482,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -470,6 +491,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Daniel Ternyak
   last_updated_on: 2017-04-12 05:00:48.000000000 Z
@@ -478,6 +500,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7797/559357.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/package.json
   detection_source: package.json
   last_updated_by: William O'Beirne
   last_updated_on: 2018-02-02 06:01:30.000000000 Z
@@ -491,7 +514,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -506,7 +529,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -520,7 +543,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16001/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -534,7 +557,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -548,7 +571,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -562,7 +585,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -576,7 +599,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -590,7 +613,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -604,7 +627,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18594/default_ff37252c783e39778181a2b561afd470c5bdef8b.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -618,7 +641,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -633,7 +656,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -648,7 +671,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -662,7 +685,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18462/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -676,7 +699,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16431/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -690,7 +713,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17916/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Amadej Pevec
   last_updated_on: 2020-01-15 11:48:33.000000000 Z
@@ -704,7 +727,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18164/default_0bb0f4fd59640311a8af225b57652f46ca85cd80.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -718,7 +741,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17319/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -732,7 +755,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2020-01-28 10:49:12.000000000 Z
@@ -746,7 +769,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2020-01-22 12:59:52.000000000 Z
@@ -760,7 +783,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18174/default_0dba38f16e89e401bb4382c2d3f09881aac7fd70.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -774,7 +797,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16750/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -788,7 +811,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -802,7 +825,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -816,7 +839,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -830,7 +853,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -844,7 +867,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18777/default_6573a8e18b31ebd0ef37ee1be216ea3f0ff3b1b5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -858,7 +881,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17976/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -872,7 +895,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -886,7 +909,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -900,7 +923,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -914,7 +937,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18670/default_d9dab6271253d9850df2c233b4312e776e118959.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -928,7 +951,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2020-01-28 10:49:12.000000000 Z
@@ -942,7 +965,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -957,7 +980,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16651/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -971,7 +994,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17210/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:07:12.000000000 Z
@@ -985,7 +1008,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16585/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:59:05.000000000 Z
@@ -999,7 +1022,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16915/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-14 12:16:53.000000000 Z
@@ -1026,7 +1049,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1040,7 +1063,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1054,7 +1077,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 05:45:59.000000000 Z
@@ -1068,7 +1091,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1082,7 +1105,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1096,7 +1119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Amadej Pevec
   last_updated_on: 2020-01-15 11:48:33.000000000 Z
@@ -1125,7 +1148,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17567/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:33:24.000000000 Z
@@ -1139,7 +1162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17320/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:26:32.000000000 Z
@@ -1153,7 +1176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16835/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:26:32.000000000 Z
@@ -1167,7 +1190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18246/default_42444f560291e764861faaf607f48484f4d14cba.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:26:32.000000000 Z
@@ -1181,7 +1204,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17297/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:26:32.000000000 Z
@@ -1195,7 +1218,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -1209,7 +1232,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: greenkeeper[bot]
   last_updated_on: 2017-11-07 23:59:27.000000000 Z
@@ -1223,7 +1246,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1237,7 +1260,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16091/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1251,7 +1274,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 07:38:05.000000000 Z
@@ -1265,10 +1288,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17554/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-15 14:04:50.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Fernand LIME
+  last_updated_on: 2020-01-14 18:21:45.000000000 Z
 - name: image-webpack-loader
   description: Image loader module for webpack
   package_url: https://www.npmjs.com/image-webpack-loader
@@ -1279,7 +1316,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16668/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -1293,7 +1330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: HenryNguyen5
   last_updated_on: 2018-04-16 22:23:03.000000000 Z
@@ -1307,10 +1344,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16875/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-23 17:33:31.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: LinFeiLong
+  last_updated_on: 2019-12-13 05:35:16.000000000 Z
 - name: mini-css-extract-plugin
   description: Extracts CSS into separate files
   package_url: https://www.npmjs.com/mini-css-extract-plugin
@@ -1321,7 +1372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1335,7 +1386,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2019-11-07 14:03:48.000000000 Z
@@ -1362,7 +1413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-14 18:13:56.000000000 Z
@@ -1376,7 +1427,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-14 12:16:53.000000000 Z
@@ -1404,7 +1455,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1418,7 +1469,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Klemen Kunstek
   last_updated_on: 2020-01-08 15:20:24.000000000 Z
@@ -1432,7 +1483,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -1446,7 +1497,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17363/default_11ae83a8e74ae9812850843051a0501a3bb5313f.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1460,7 +1511,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1474,7 +1525,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1488,7 +1539,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1502,7 +1553,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1516,7 +1567,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1530,7 +1581,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1544,7 +1595,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1558,7 +1609,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17365/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1572,7 +1623,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17658/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1586,7 +1637,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1600,7 +1651,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1614,7 +1665,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18162/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:24:18.000000000 Z
@@ -1628,7 +1679,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16472/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1642,7 +1693,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1656,7 +1707,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -1670,7 +1721,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17737/default_9693d58c90f5c726ee648423687212d2a94266da.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1684,7 +1735,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 22:11:15.000000000 Z
@@ -1699,7 +1750,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2020-01-28 10:49:12.000000000 Z
@@ -1714,7 +1765,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16083/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-23 17:33:31.000000000 Z
@@ -1728,7 +1779,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16592/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-23 17:33:31.000000000 Z
@@ -1742,7 +1793,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16289/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanuel Vilsbol
   last_updated_on: 2020-01-30 16:49:08.000000000 Z
@@ -1756,7 +1807,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Klemen Kunstek
   last_updated_on: 2020-01-08 15:20:24.000000000 Z
@@ -1770,7 +1821,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:03:08.000000000 Z
@@ -1784,7 +1835,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:03:08.000000000 Z
@@ -1798,7 +1849,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Fernand LIME
   last_updated_on: 2020-01-15 06:03:08.000000000 Z
@@ -1812,7 +1863,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LinFeiLong
   last_updated_on: 2019-12-13 05:35:16.000000000 Z
@@ -1826,7 +1877,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17526/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Michael - Blurpesec
   last_updated_on: 2020-01-22 13:05:36.000000000 Z
+- name: yup
+  description: Dead simple Object schema validation
+  package_url: https://www.npmjs.com/yup
+  version: 0.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17215/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/ashleanichols/MyCrypto/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Daniel Ternyak
+  last_updated_on: 2017-04-12 05:00:48.000000000 Z
