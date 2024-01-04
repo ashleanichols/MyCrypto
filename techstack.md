@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/MyCrypto is built on the following main stack:
+
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -36,11 +37,13 @@ ashleanichols/MyCrypto is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/MyCrypto is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -75,14 +78,15 @@ ashleanichols/MyCrypto is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/MyCrypto](https://github.com/ashleanichols/MyCrypto)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|131<br/>Tools used|11/09/23 <br/>Report generated|
+|134<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -430,9 +434,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (92)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (95)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (92)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (95)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -490,9 +494,11 @@ Full tech stack [here](/techstack.md)
 |[friendly-errors-webpack-plugin](https://www.npmjs.com/friendly-errors-webpack-plugin)|v1.7.0|01/15/20|Fernand LIME |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|01/15/20|Fernand LIME |MIT|N/A|
 |[html2canvas](https://www.npmjs.com/html2canvas)|v1.0.0|01/15/20|Emmanuel Vilsbol |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.0.9|01/14/20|Fernand LIME |MIT|N/A|
 |[image-webpack-loader](https://www.npmjs.com/image-webpack-loader)|v6.0.0|01/15/20|Fernand LIME |MIT|N/A|
 |[isomorphic-fetch](https://www.npmjs.com/isomorphic-fetch)|v2.2.1|04/16/18|HenryNguyen5 |MIT|N/A|
 |[jsonschema](https://www.npmjs.com/jsonschema)|v1.2.4|01/23/20|Emmanuel Vilsbol |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v9.5.0|12/13/19|LinFeiLong |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v0.9.0|01/30/20|Emmanuel Vilsbol |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.22.1|11/07/19|Emmanuel Vilsbol |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[nock](https://www.npmjs.com/nock)|v11.7.2|01/14/20|Fernand LIME |MIT|N/A|
@@ -528,8 +534,9 @@ Full tech stack [here](/techstack.md)
 |[webpack-merge](https://www.npmjs.com/webpack-merge)|v4.2.2|01/15/20|Fernand LIME |MIT|N/A|
 |[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v0.11.0|12/13/19|LinFeiLong |MIT|N/A|
 |[worker-loader](https://www.npmjs.com/worker-loader)|v2.0.0|01/22/20|Michael - Blurpesec |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.27.0|04/12/17|Daniel Ternyak |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
